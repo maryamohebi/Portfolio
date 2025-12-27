@@ -1,3 +1,16 @@
+
 body {
-    font-family: 'Playwrite', cursive;
+    /*font-family: 'oregano', cursive;*/
+    font-family:'Courier New', Courier, monospace
+
+}
+#title {
+    color: lightblue;
+}
+
+.places {
+    font-family:'Courier New', Courier, monospace
+}
+.cities {
+    color: purple;
 }
